@@ -8,6 +8,5 @@ Welcome to the Bytes and Bits tutorial! In this tutorial, we will explore the fu
 
 1. [Bits](bits.md)
 2. [Bytes](bytes.md)
-3. [Binary Representation](binary-representation.md)
-4. [Byte Size Units](byte-size-units.md)
-5. [Conclusion](conclusion.md)
+3. [Byte Size Units](byte-size-units.md)
+4. [Conclusion](conclusion.md)
