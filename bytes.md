@@ -19,3 +19,4 @@ Example: The binary representation of a byte might look like this: 01011010
 **Communication:** Bytes are used to transmit data over networks. Whether it's the text in an email, an image in a web page, or a file download, data is sent and received in the form of bytes.
 
 - [Back to Home](README.md)
+- [Byte Size Units](byte-size-units.md)
