@@ -7,7 +7,7 @@ Bytes are fundamental building blocks in computer systems, and they are used to 
 # Binary Representation
 As mentioned earlier, a byte is made up of 8 bits, and each bit can have a value of either 0 or 1. 
 The binary system is a base-2 numeral system, meaning that each digit (bit) in a binary number represents powers of 2.
-Example: The binary representation of a byte might look like this: 01011010
+Example: The binary representation of a byte might look like this: 
 
 ![Bytes Image](https://scontent-ord5-2.xx.fbcdn.net/v/t1.18169-9/10801563_10152325847311222_4130332589331047097_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=908e45&_nc_ohc=rJ-a4q06EnEAX_lfVhx&_nc_ht=scontent-ord5-2.xx&oh=00_AfDhtkBrIVw1V8gwYr1DWOpU4R5jtGyAiHiIKxI36tSO0Q&oe=659AEABF)
 
