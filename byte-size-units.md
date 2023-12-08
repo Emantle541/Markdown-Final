@@ -3,6 +3,7 @@
 Bytes are often used with prefixes to denote larger units of digital information. These units help express data sizes in a more human-readable and manageable form. Here are some commonly used byte size units:
 
 1. Bit
+
 Definition: The smallest unit of digital information, with a binary value of 0 or 1.
 2. Byte
 Definition: A group of 8 bits.
