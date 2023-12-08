@@ -1,7 +1,7 @@
 ## Bits
 
 # Definition
-A bit, short for "binary digit," is the smallest unit of digital information. It can only have one of two values: 0 or 1. The term "bit" is a contraction of these two binary states.
+A bit, short for "binary digit," is the smallest unit of digital information. It can only have one of two values: 1(on) or 0(off). The term "bit" is a contraction of these two binary states.
 
 ![Example of a Bit](https://i.gyazo.com/f7ed9e61c1cff31f897d13cdf5dd4efb.png)
 
