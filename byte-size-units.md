@@ -40,3 +40,6 @@ Common Usage: Used in discussions about the vast amounts of data generated globa
 1 YB is equal to 1024 ZB or approximately 1,208,925,819,614,629,174,706,176 bytes.
 
 Common Usage: This unit is theoretical and is not commonly encountered in practical storage scenarios yet. It's used in discussions about the potential future scale of data storage.
+
+- [Back to Home](README.md)
+- [Conclusion](conclusion.md)
