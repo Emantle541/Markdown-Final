@@ -23,7 +23,7 @@ Common Usage: Used to measure the storage capacity of hard drives, SSDs, and the
 # Terabyte (TB)
 1 TB is equal to 1024 GB or approximately 1,099,511,627,776 bytes.
 
-Common Usage: Describes the capacity of modern storage devices, large datasets, and high-. videos.
+Common Usage: Describes the capacity of modern storage devices and large datasets.
 # Petabyte (PB)
 1 PB is equal to 1024 TB or approximately 1,125,899,906,842,624 bytes.
 
